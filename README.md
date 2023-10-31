@@ -1,3 +1,5 @@
+Lucca Freixo Bittencourt lucca.bittencourt@fatec.sp.gov.br
+
 # Arvores AVL (Adelson Velsky e Landis)
 ---
 
